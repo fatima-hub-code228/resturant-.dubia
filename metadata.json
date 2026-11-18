@@ -1,0 +1,6 @@
+{
+  "name": "SOLAIA — Open-Fire Tasting Room & Private Cellar",
+  "description": "Cinematic open-fire tasting room and private cellar overlooking Downtown Dubai. Eight-course wood-hearth gastronomy, vintage pairings, and architectural dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
